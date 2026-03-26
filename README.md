@@ -113,9 +113,11 @@ flowchart TD
 
 ## Total Loss
 
+$$
 \[
 J = \alpha \cdot J_{\text{content}} + \beta \cdot J_{\text{style}}
 \]
+$$
 
 - Content loss preserves structural information  
 - Style loss captures artistic patterns and textures  
