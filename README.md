@@ -111,8 +111,6 @@ flowchart TD
 
 ### Total Loss
 
-## Total Loss
-
 $$
 \[
 J = \alpha \cdot J_{\text{content}} + \beta \cdot J_{\text{style}}
